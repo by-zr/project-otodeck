@@ -1,5 +1,3 @@
-// SOONG ZI RUI
-
 #include "MainComponent.h"
 
 MainComponent::MainComponent() {

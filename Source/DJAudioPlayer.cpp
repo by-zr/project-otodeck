@@ -1,4 +1,3 @@
-// SOONG ZI RUI
 
 #include "DJAudioPlayer.h"
 

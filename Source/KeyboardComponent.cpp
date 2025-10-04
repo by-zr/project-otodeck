@@ -1,4 +1,3 @@
-// SOONG ZI RUI
 
 #include <JuceHeader.h>
 #include "KeyboardComponent.h"

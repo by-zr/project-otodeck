@@ -1,5 +1,3 @@
-// SOONG ZI RUI
-
 #include <JuceHeader.h>
 #include "MainComponent.h"
 

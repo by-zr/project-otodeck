@@ -1,4 +1,3 @@
-// SOONG ZI RUI
 
 #include <JuceHeader.h>
 #include "DeckGUI.h"

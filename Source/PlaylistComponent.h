@@ -1,5 +1,3 @@
-// SOONG ZI RUI
-
 #pragma once
 
 #include <JuceHeader.h>
